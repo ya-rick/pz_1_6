@@ -177,3 +177,15 @@
   color: #00ff60;
 
 }
+
+#h-28{
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-style: italic;
+  font-weight: bold;
+  color: #3aeb1c;
+  background-color: #ebac0c;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
